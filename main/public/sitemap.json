@@ -1,0 +1,36 @@
+[
+  {
+    "key": "sub-app-general",
+    "icon": "",
+    "title": "sub-app-general",
+    "defaultOpen": true,
+    "children": [
+      {
+        "title": "二级菜单",
+        "key": "SubAppGeneralHome",
+        "selectRule": {
+          "path": "/sub-app-general/",
+          "target": "_self"
+        },
+        "icon": ""
+      }
+    ]
+  },
+  {
+    "key": "sub-app-exposes",
+    "icon": "",
+    "title": "sub-app-exposes",
+    "defaultOpen": true,
+    "children": [
+      {
+        "title": "二级菜单",
+        "key": "SubAppExposesHome",
+        "selectRule": {
+          "path": "/sub-app-exposes/",
+          "target": "_self"
+        },
+        "icon": ""
+      }
+    ]
+  }
+]

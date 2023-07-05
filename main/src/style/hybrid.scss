@@ -1,0 +1,10 @@
+.layout-hybrid {
+  .ch-layout__header {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .ch-layout__toolbar {
+    height: 100%;
+  }
+}

@@ -1,0 +1,17 @@
+.ch-menu--vertical {
+  background-color: #192873;
+
+  .el-menu-item {
+    height: 40px;
+    line-height: 40px;
+
+    &:hover {
+      background-color: transparent;
+      color: #fff;
+    }
+  }
+}
+
+.global-message {
+  z-index: 9999 !important;
+}
