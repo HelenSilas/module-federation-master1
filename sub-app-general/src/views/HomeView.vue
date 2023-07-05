@@ -2,9 +2,8 @@
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png" />
     <div v-if="isLoadingComponent">Loading HelloWorld.vue</div>
-    <HelloWorld msg="Welcome " />33
-    ccc
-    <el-button>测试按钮</el-button>
+    <HelloWorld msg="Welcome " />
+    <el-button>本地测试按钮</el-button>
   </div>
 </template>
 

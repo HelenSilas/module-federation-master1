@@ -1,7 +1,7 @@
 
 <template>
   <div>
-    <el-button @click="handleClick">Click me!</el-button>
+    <el-button @click="handleClick">我是exposes的按钮</el-button>
   </div>
 </template>
 
